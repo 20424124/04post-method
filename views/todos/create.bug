@@ -1,0 +1,3 @@
+form(action="/todos/search", method="POST")
+  input(type="text", name='q')
+  button Search  
